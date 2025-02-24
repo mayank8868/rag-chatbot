@@ -1,0 +1,14 @@
+streamlit
+torch
+pdfplumber
+llama-cpp-python
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pymupdf  # Required for PyMuPDF (fitz)
+numpy
+scipy
+tqdm
+pickle-mixin  # For serializing FAISS index
