@@ -1,6 +1,7 @@
 streamlit
 torch
-pdfplumber
+pdfplumber==0.11.5
+pdfminer.six==20231228
 llama-cpp-python
 langchain
 langchain-community
