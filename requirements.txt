@@ -2,7 +2,7 @@ streamlit
 torch
 pdfplumber==0.11.5
 pdfminer.six==20231228
-llama-cpp-python
+llama-cpp-python==0.2.30
 langchain
 langchain-community
 langchain-huggingface
