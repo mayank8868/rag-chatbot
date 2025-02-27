@@ -12,7 +12,7 @@ This is a Retrieval-Augmented Generation (RAG) chatbot built with Llama 2, allow
 📌 Installation
 1️⃣ Clone the repository
 
-git clone https://github.com/your-repo/chat-with-pdf-llama2.git
+git clone https://github.com/mayank8868/rag-chatbot
 cd chat-with-pdf-llama2
 
 2️⃣ Set up a virtual environment (optional but recommended)
