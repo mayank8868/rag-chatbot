@@ -80,6 +80,3 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 🤝 Contributing
 Feel free to open an issue or submit a pull request! 🚀
-
-📜 License
-This project is licensed under the MIT License.
